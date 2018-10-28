@@ -4,5 +4,5 @@ A2VS is an annual event jointly organized by the [Vedanta Center of Ann Arbor](h
 
 Past and planned events:
 
-- [A2VS 2018](2018.md)
-- [A2VS 2017](2017.md)
+- [A2VS 2018](2018.html)
+- [A2VS 2017](2017.html)
